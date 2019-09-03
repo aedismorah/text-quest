@@ -1,0 +1,24 @@
+<begin>
+{
+list of options
+    option1
+    option2 
+    option3
+}
+	
+<option1>
+{
+    reply1
+        subchoice1
+}
+	
+<option2>
+{
+    reply2
+        subchoice2
+}
+	
+<option3>
+{
+    reply3
+}
